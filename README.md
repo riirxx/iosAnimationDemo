@@ -4,7 +4,7 @@
 
 
 ###Demo
-![demo](./demo/demo.png)
+![demo](./demo1.gif)
 
 ### License
 
